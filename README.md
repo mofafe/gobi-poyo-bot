@@ -11,4 +11,5 @@ $ go run main.go
 環境変数の解説
 
 BOT_TOKEN: Discord Botのトークン
+
 POYO_CLIENT_ID: 語尾をぽよにしたい人のユーザーID
