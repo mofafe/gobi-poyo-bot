@@ -4,6 +4,7 @@
 実行方法
 ```bash
 $ git clone https://github.com/mofafe/gobi-poyo-bot
+$ cd gobi-poyo-bot
 $ cp .env.example .env
 $ go run main.go
 ```
